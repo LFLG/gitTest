@@ -11,6 +11,6 @@ hello git! hello forestwind!
 hello git! hello forestwind!
 hello git! hello forestwind!
 hello git! hello forestwind!
-hello git! hello forestwind!
+hello git! hello forestwind! master test!
 hello git! hello forestwind! hot-fix test!
 hello git! hello forestwind!
